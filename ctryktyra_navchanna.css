@@ -1,0 +1,153 @@
+
+.what1 {
+background-color: #faead0;
+border-radius: 0px 29px 0px 29px;
+width: calc((100% / 4) - 25px);
+padding: 19px;
+
+}
+
+.what2 {
+background-color: #fadcd2;
+border-radius: 0px 29px 0px 29px;
+box-shadow: 0 0 20px 5px #ececec;
+width: calc((100% / 4) - 25px);
+padding: 19px;
+}
+
+.what3 {
+background-color: #e2d7f5;
+border-radius: 0px 29px 0px 29px;
+box-shadow: 0 0 20px 5px #ececec;
+width: calc((100% / 4) - 25px);
+padding: 19px;
+}
+
+.what4 {
+background-color: #c8eae9;
+border-radius: 0px 29px 0px 29px;
+box-shadow: 0 0 20px 5px #ececec;
+width: calc((100% / 4) - 25px);
+padding: 19px;
+
+}
+
+.ghukmwi {
+display: flex;
+justify-content: space-between;
+}
+
+.log {
+text-align: start;
+margin-top: 115px;
+padding: 2px 0px 70px 0px;
+margin: 0px 0px 0px 0px;
+}
+
+.imgd {
+float: left;
+background-color: #fcae26;
+border-radius: 50%;
+width: 30px;
+height: 30px;
+text-align: center;
+}
+
+img {
+position: relative; top: 50%;
+-webkit-transform: translateY(-50%); 
+-ms-transform: translateY(-50%); 
+transform: translateY(-50%); 
+}
+
+.conteiner {
+width: 100%;
+margin: 0 auto;
+padding: 0px 15px;
+max-width: 1300px;
+}
+
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+.qfwqq1 {
+padding: 44px 0px 24px 22px;
+border: 1px dashed white;
+border-radius: 0px 29px 0px 29px;
+height: 100%;
+}
+
+.qfwqq2 {
+padding: 44px 0px 76px 19px;
+border: 1px dashed white;
+border-radius: 0px 29px 0px 29px;
+height: 100%;
+}
+
+.qfwqq3 {
+padding: 44px 0px 76px 19px;
+border: 1px dashed white;
+border-radius: 0px 29px 0px 29px;
+height: 100%;
+}
+
+.qfwqq4 {
+padding: 44px 19px 102px 19px;
+border: 1px dashed white;
+border-radius: 0px 29px 0px 29px;
+height: 100%;
+}
+
+h2 {
+color: #222222;
+font-size: 30px;
+font-family: 'Ubuntu', sans-serif;
+margin: 0px 0px;
+margin-bottom: 20px;
+}
+
+p {
+font-family: 'Ubuntu', sans-serif;
+font-size: 18px;
+color:  #444444;
+margin: 0px 0px;
+line-height: 26px;
+}
+
+.wfgewq {
+font-size: 33px;
+margin: 0px;
+}
+
+.what33 {
+max-height: 78px;
+}
+
+@media screen and (max-width: 768px){
+.what1,.what2,.what3,.what4 {
+width: 50%;
+}
+.conteiner{
+max-width: 768px;
+
+}
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
